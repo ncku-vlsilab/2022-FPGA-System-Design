@@ -30,7 +30,7 @@ This repository provides various FPGA design tutorials.
 # GitHub Learning Resource
 
 * [30天精通Git版本控管](https://ithelp.ithome.com.tw/users/20004901/ironman/525)
-* [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 * `git --help`
 
 # SystemVerilog
