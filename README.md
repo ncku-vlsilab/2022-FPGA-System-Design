@@ -8,7 +8,7 @@ This repository provides various FPGA design tutorials.
 
 # FPGA Development Board
 
-* [PYNQ-Z2 board](https://dpoauwgwqsy2x.cloudfront.net/Download/pynq-z2.zip)
+* [PYNQ-Z2 board](https://www.tulembedded.com/FPGA/ProductsPYNQ-Z2.html)
 
 # Learning Resource
 
