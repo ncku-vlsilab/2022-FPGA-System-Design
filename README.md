@@ -25,7 +25,7 @@ This repository provides various FPGA design tutorials.
 
 * [PYNQ](http://www.pynq.io)
 
-* [PYNQ DOC](https://pynq.readthedocs.io/en/v2.6.1/)
+* [PYNQ DOC](https://pynq.readthedocs.io/en/v2.7.0/)
 
 # GitHub Learning Resource
 
