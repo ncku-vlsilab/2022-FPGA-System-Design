@@ -23,7 +23,7 @@ Vivado Installation Tutorial
 
 ## PYNQ Z2
 
-這門課所使用的板子為 PYNQ-Z2，[官網](https://www.tul.com.tw/)有提供此板子的 [board file](https://d2m32eurp10079.cloudfront.net/Download/pynq-z2.zip)。下載解壓縮後，將整個資料夾放到 Vivado 安裝目錄裡的 board_files 資料夾底下   
+這門課所使用的板子為 PYNQ-Z2，[官網](https://www.tul.com.tw/)有提供此板子的 [board file](https://dpoauwgwqsy2x.cloudfront.net/Download/pynq-z2.zip)。下載解壓縮後，將整個資料夾放到 Vivado 安裝目錄裡的 board_files 資料夾底下   
 
 路徑 : _"Xilinx/Vivado/2020.2/data/boards/board_files"_
 
