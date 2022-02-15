@@ -9,7 +9,7 @@ Vivado Installation Tutorial
 
 2. 前往[這裡](https://www.xilinx.com/support/download.html)，下載 **Vivado 2020.2**
 
-  **註：請盡量按裝在使用者名稱為 "英文" 的電腦**
+  **註：請安裝在使用者名稱為 "英文" 的電腦**
 
 ![Download](images/download2.png)
 
