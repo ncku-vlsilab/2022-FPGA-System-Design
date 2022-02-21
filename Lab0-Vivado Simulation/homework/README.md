@@ -3,6 +3,7 @@ FPGA Desgin Homwork 0 - Verilog Code Practice
 
 # 繳交時間
 
+03/07(一) 晚上19:00，逾時拒收以0分計算
 
 # 題目
 
