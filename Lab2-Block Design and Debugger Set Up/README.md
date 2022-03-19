@@ -15,11 +15,15 @@ Reference : [Wiki](https://zh.wikipedia.org/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93IP%E
 
 學習如何使用 GUI 進行模組化設計
 
-##### Note : 接下來的 1-1、1-2 的Project請建在同一個資料夾底下。
-
 ## 1-1 Package IP - 1
 
-先開啟一個 Vivado Project，並加入 `/src/RGB_LED.v` , `/xdc/RGB_LED_ooc.xdc`
+在電腦選擇一個自己想要的路徑(不能有中文)，建立IP的資料夾
+
+##### Note : 目的是為了方便管理自己 package 的 IP，資料夾名稱可自己取(必須為英文)。
+
+![IP_folder](images/IP_folder.png)
+
+然後開啟一個 Vivado Project，並加入 `/src/RGB_LED.v` , `/xdc/RGB_LED_ooc.xdc`
 
 接著照著步驟修改 `RGB_LED_ooc.xdc` 的 Properties
 
