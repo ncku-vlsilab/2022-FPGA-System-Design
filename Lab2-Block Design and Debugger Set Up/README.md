@@ -44,7 +44,11 @@ Reference : [Wiki](https://zh.wikipedia.org/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93IP%E
 
 ![IP_location](images/IP_location.jpg)
 
-完成後先合成，合成完後即可將這個 module 打包成 IP
+此時會開啟新的Vivado視窗，接著我們將其做合成
+
+![Run_synthesis](images/Run_synthesis.jpg)
+
+合成完後即可將這個 module 打包成 IP
 
 ![Package](images/package.jpg)
 
