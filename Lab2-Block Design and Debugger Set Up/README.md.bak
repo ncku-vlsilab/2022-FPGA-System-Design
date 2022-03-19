@@ -42,6 +42,7 @@ Reference : [Wiki](https://zh.wikipedia.org/wiki/%E5%8D%8A%E5%AF%BC%E4%BD%93IP%E
 
 選擇剛剛 create 的 IP 資料夾路徑
 
+![IP_location](images/IP_location.jpg)
 
 完成後先合成，合成完後即可將這個 module 打包成 IP
 
