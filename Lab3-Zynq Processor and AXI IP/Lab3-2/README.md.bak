@@ -14,7 +14,7 @@ Run Connection Automation > OK (全部勾選)
 
 Vivado 會自動幫我們接上 AXI Interconnection 形成下圖。
 
->What is [AXI](https://www.xilinx.com/products/intellectual-property/axi.html) ?
+>What is [AXI (Advanced eXtensible Interface)](https://www.xilinx.com/products/intellectual-property/axi.html) ?
 
 ![](https://i.imgur.com/JTl8n7f.png)
 
