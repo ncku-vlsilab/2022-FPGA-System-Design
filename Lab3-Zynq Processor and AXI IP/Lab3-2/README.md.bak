@@ -22,7 +22,7 @@ Vivado 會自動幫我們接上 AXI Interconnection 形成下圖。
 
 ![](https://i.imgur.com/boGrfCo.png)
 
-切換到 IP Configuration，分別改成以下兩個設定，兩個 GPIO 一個是接到 LEDs 一個是接到 Switches。
+切換到 IP Configuration，分別改成以下兩個設定，因為一個是接到 LEDs 一個是接到 Switches。
 
 設定完成後，更改連接出去的 port name，方便辨認。
 
