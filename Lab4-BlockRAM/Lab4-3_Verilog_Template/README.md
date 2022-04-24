@@ -77,6 +77,6 @@ in this configuration.
 
 ## Reference
 
-[Vivado Design Suite 7 Series FPGA and Zynq-7000 SoC Libraries Guide](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_2/ug953-vivado-7series-libraries.pdf)
+[Vivado Design Suite 7 Series FPGA and Zynq-7000 SoC Libraries Guide](https://docs.xilinx.com/r/2021.2-English/ug953-vivado-7series-libraries)
 
-> Page 551
+> Page 555
