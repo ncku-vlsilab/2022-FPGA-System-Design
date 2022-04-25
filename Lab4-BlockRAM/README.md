@@ -21,7 +21,7 @@ Block RAM can be configured as :
 
 - 4-1 : 使用 Block RAM Generator 以及 AXI Bram Controller 這兩個 IP 來呼叫 Block RAM。
 
-- 4-2 : 透過 Verilog code 來描述 Block RAM 的行為架構以呼叫 Block RAM。
+- 4-2 : 透過 Verilog code 來描述 Block RAM 的行為架構以在合成時呼叫 Block RAM。
 
 - 4-3 : 直接使用 Xilinx Design Library 內的 Verilog Template 呼叫 Block RAM。
 
