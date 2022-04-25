@@ -32,8 +32,6 @@ RAMB36E1_inst (
 
 #### Available Attributes
 
-![Block_RAM_Logic_Diagram](images/Block_RAM_Logic_Diagram.png) 
-
 |Attribute  |Type   |Allowed Values |Default  |Description  |
 |-----------|-------|---------------|---------|-------------|
 |DOA_REG, DOB_REG|DECIMAL|0, 1|0|Output Registers Options. |
