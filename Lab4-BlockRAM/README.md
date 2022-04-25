@@ -15,7 +15,7 @@ Block RAM can be configured as :
 
 - 2 independent 18Kb blocks or a single 36Kb block RAM
 
-- Single Dual Port (SDP) / True Dual Port (TDP) are supported
+- Simple Dual Port (SDP) / True Dual Port (TDP) are supported
 
 # Lab
 
