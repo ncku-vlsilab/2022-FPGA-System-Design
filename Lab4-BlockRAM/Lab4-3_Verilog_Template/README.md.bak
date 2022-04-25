@@ -32,8 +32,6 @@ RAMB36E1_inst (
 
 #### Available Attributes
 
-![Block_RAM_Logic_Diagram](images/Block RAM Logic Diagram.png) 
-
 |Attribute  |Type   |Allowed Values |Default  |Description  |
 |-----------|-------|---------------|---------|-------------|
 |DOA_REG, DOB_REG|DECIMAL|0, 1|0|Output Registers Options. |
@@ -60,7 +58,7 @@ in this configuration.
 
 #### Port Descriptions
 
-![Block_RAM_Port_Signals](images/Block RAM Port Signals.png) 
+![axi_ip](images/Block RAM Port Signals.png) 
 
 |Port       |Direction   |Width          |Function |
 |-----------|-------     |---------------|---------|
