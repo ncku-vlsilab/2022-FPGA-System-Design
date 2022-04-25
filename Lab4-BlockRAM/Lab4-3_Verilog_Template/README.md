@@ -32,7 +32,7 @@ RAMB36E1_inst (
 
 #### Available Attributes
 
-![Block_RAM_Logic_Diagram](images/Block RAM Logic Diagram.png) 
+![Block_RAM_Logic_Diagram](images/Block_RAM_Logic_Diagram.png) 
 
 |Attribute  |Type   |Allowed Values |Default  |Description  |
 |-----------|-------|---------------|---------|-------------|
@@ -60,7 +60,7 @@ in this configuration.
 
 #### Port Descriptions
 
-![Block_RAM_Port_Signals](images/Block RAM Port Signals.png) 
+![Block_RAM_Port_Signals](images/Block_RAM_Port_Signals.png) 
 
 |Port       |Direction   |Width          |Function |
 |-----------|-------     |---------------|---------|
