@@ -1,4 +1,4 @@
-(* keep_hierarchy = "yes" *)module	mem256X8(
+module	mem256X8(
 	input 			clk,
 	input 			write_enable,
 	input 			[7:0]	data_in,

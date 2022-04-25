@@ -1,4 +1,4 @@
-(* keep_hierarchy = "yes" *)module	memory_ctrl(
+module	memory_ctrl(
 	input					clk,
 	input					rst_n,
 	input 				cmd_valid,
