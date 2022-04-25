@@ -3,7 +3,7 @@
 
 ## Purpose
 
-透過 Verilog code 來描述 Block RAM 的行為架構，使合成軟體將我們使用到的記憶單元使用 Block RAM 來合成。
+透過修改 Verilog code 描述 Block RAM 的行為架構，使合成軟體將我們使用到的記憶單元使用 Block RAM 來合成。
 
 ## Package AXI IP
 
