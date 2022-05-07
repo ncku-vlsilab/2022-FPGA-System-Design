@@ -64,6 +64,6 @@ An embedded computing module on FPGAs, functions include :
 
 [7 Series DSP48E1 Slice User Guide (UG479)](https://www.xilinx.com/support/documentation/user_guides/ug479_7Series_DSP48E1.pdf)
 
-[Vivado Design Suite 7 Series FPGA and Zynq-7000 SoC Libraries Guide](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_2/ug953-vivado-7series-libraries.pdf)
+[Vivado Design Suite 7 Series FPGA and Zynq-7000 SoC Libraries Guide](https://docs.xilinx.com/v/u/2020.1-English/ug953-vivado-7series-libraries)
 
-> P.304 - P.313
+> P.305 - P.314
