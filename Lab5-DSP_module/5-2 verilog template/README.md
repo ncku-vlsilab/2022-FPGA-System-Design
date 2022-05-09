@@ -83,7 +83,7 @@ DSP48E1_inst (
 |CARRYIN|Input|1|Carry input from the FPGA logic.|
 |CARRYINSEL <2:0>|Input|3|Selects the carry source.|
 |CARRYOUT<3:0>|Output|4|4-bit carry output from each 12-bit field of the accumulate/adder/logic unit. Normal 48-bit operation uses only CARRYOUT3. SIMD operation can use four carry out bits (CARRYOUT[3:0]).|
-|CE~|Input|1|Active-High clock enable for the ~ pipeline register. Tie to logic one if not used and the register is used. Tie to logic zero if the register is not used.|
+|CE~|Input|1|Active-High clock enable for the ~ pipeline register. Tie to logic one if the register is used. Tie to logic zero if the register is not used.|
 |CLK|Input|1|The DSP48E1 input clock common to all internal registers and flip-flops.|
 |D<24:0>|Input|25|25-bit data input to the pre-adder or alternative input to the multiplier.|
 |INMODE<4:0>|Input|5|These five control bits select the functionality of the preadder, the A, B, and D inputs, and the input registers. These bits should be tied to all zeros if not used.|
@@ -145,7 +145,7 @@ DSP48E1_inst (
 |xxx|xx|10|P|Must select with PREG = 1|
 |xxx|xx|11|A:B|48 bits wide concatenation|
 
-#### OPMODE Control Bits Select Y Multiplier Outputs
+#### OPMODE Control Bits Select Y Multiplexer Outputs
 
 |Z / OPMODE[6:4] | Y / OPMODE[3:2] | X / OPMODE[1:0] | Y Multiplexer Output | Notes |
 |:---:|:---:|:---:|:---:|:---|
@@ -154,7 +154,7 @@ DSP48E1_inst (
 |xxx|10|xx|48'hFFFFFFFFFFFF|Used mainly for logic unit bitwise operations on the X and Z multiplexers|
 |xxx|11|xx|C||
 
-#### OPMODE Control Bits Select Z Multiplier Outputs
+#### OPMODE Control Bits Select Z Multiplexer Outputs
 
 |Z / OPMODE[6:4] | Y / OPMODE[3:2] | X / OPMODE[1:0] | X Multiplexer Output | Notes |
 |:---:|:---:|:---:|:---:|:---|
@@ -180,7 +180,7 @@ DSP48E1_inst (
 
 #### Two-Input ALUMODE operations
 
-|Logic Unit Mode|OPMODE[3:0]|ALUMODE[3:0]|
+|Logic Unit Mode|OPMODE[3:2]|ALUMODE[3:0]|
 |:---|:---:|:---:|
 |X XOR Z|00|0100|
 |X XNOR Z|00|0101|
