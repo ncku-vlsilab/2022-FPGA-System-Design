@@ -43,8 +43,6 @@ DSP48E1_inst (
 - A(B)REG=1: A(B)CASCREG must be 1.
 - A(B)REG=2: A(B)CASCREG can be 1 or 2.
 
-![Input_pipeline_selection](images/Input_pipeline_selection.png)
-
 ##### Control Input Pipeline Selection
 
 |Attribute  |Type   |Allowed Values |Default  |Description  |

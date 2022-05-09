@@ -81,7 +81,7 @@ DSP48E1_inst (
 |CARRYCASIN|Input|1|Cascaded carry input from CARRYCASCOUT of previous DSP48E1 slice.|
 |CARRYCASCOUT|Output|1|Cascaded carry output to CARRYCASCIN of next DSP48E1 slice. This signal is internally fed back into the CARRYINSEL multiplexer input of the same DSP48E1 slice.|
 |CARRYIN|Input|1|Carry input from the FPGA logic.|
-|CARRYINSEL <2:0>|Input|3||
+|CARRYINSEL <2:0>|Input|3|Selects the carry source.|
 |CARRYOUT<3:0>|Output|4|4-bit carry output from each 12-bit field of the accumulate/adder/logic unit. Normal 48-bit operation uses only CARRYOUT3. SIMD operation can use four carry out bits (CARRYOUT[3:0]).|
 |CE~|Input|1|Active-High clock enable for the ~ pipeline register. Tie to logic one if not used and the register is used. Tie to logic zero if the register is not used.|
 |CLK|Input|1|The DSP48E1 input clock common to all internal registers and flip-flops.|
