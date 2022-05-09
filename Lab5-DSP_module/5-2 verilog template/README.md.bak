@@ -26,8 +26,6 @@ DSP48E1_inst (
 
 #### Available Attributes
 
-![Input_pipeline_selection](images/Input_pipeline_selection.png)
-
 ##### Data Input Pipeline Selection
 
 |Attribute  |Type   |Allowed Values |Default  |Description  |
