@@ -61,6 +61,6 @@ FPGA Design Lab6 - Python + Zynq = PYNQ
 
 ## Reference
 
-[Python producivity for Zynq](https://pynq.readthedocs.io/en/v2.7.0/index.html#)
+[Python producivity for Zynq](https://pynq.readthedocs.io/en/v2.6.1/index.html#)
 
 [Set up the PYNQ-Z2 board from TUL to run PYNQ (YouTube)](https://www.youtube.com/watch?v=RiFbRf6gaK4)
